@@ -1,6 +1,6 @@
 # 🧠 DocuMind — Multimodal Agentic RAG Chat Assistant
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sm25mtech11008-beep/documind-agentic-rag-/blob/main/DocuMind_Agentic_RAG.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sm25mtech11008-beep/Documind-agentic-rag-/blob/main/DocuMind_Agentic_RAG.ipynb)
 
 Chat with your documents, **figures and tables included**, and get **grounded answers with citations**. DocuMind remembers the conversation, understands follow-up questions, accepts image uploads, and uses an *agentic* retrieval pipeline (query planning, hybrid search, reranking, corrective retrieval and self-verification). Built entirely on **open-source models** that run on a **free Colab T4 GPU**. No paid APIs, no keys.
 
