@@ -1,0 +1,12 @@
+# Installed automatically by the notebook's first cell (Colab / Kaggle)
+transformers
+accelerate
+sentence-transformers
+gradio
+faiss-cpu
+rank_bm25
+pymupdf
+python-docx
+python-pptx
+pandas
+matplotlib

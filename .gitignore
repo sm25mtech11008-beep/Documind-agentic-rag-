@@ -1,0 +1,6 @@
+docs/
+figures/
+*.json
+!results.json
+__pycache__/
+.ipynb_checkpoints/
